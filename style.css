@@ -1,6 +1,7 @@
 .centrar {
   text-align: center;
   align-items: center;
+  object-position: center center;
   display: flex;
   width: auto;
   height: auto;
