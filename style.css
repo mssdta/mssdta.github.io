@@ -1,9 +1,9 @@
 html {
-    height: 50vw;
+    height: 50%;
 }
 body {
-    min-height: 50vw;
-    max-height: 50vw;
+    min-height: 50%;
+    max-height: 50%;
 }
 
 .centrar {
