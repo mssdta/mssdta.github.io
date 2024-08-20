@@ -4,8 +4,14 @@ body {
 }
 
 .centrar {
-  text-align: center center;
-  align-items: center center;
-  object-position: center center;
+  text-align: center;
+  align-items: center;
+  object-position: center;
   display: flex;
+  width: 75vw;
+  margin: auto;
 }
+
+img {
+  width: 100%;
+}  
