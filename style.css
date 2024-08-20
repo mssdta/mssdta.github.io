@@ -4,9 +4,7 @@ body {
 }
 
 .centrar {
-  text-align: center;
-  align-items: center;
-  object-position: center;
+  text-align: center center;
   width: 75vw;
   margin: auto;
 }
