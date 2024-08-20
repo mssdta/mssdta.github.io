@@ -1,5 +1,6 @@
 html {
-    height: 50%;
+    height: 50%
+    object-fit: contain;
 }
 body {
     min-height: 100%;
