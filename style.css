@@ -1,7 +1,11 @@
+.centrar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .centrar img{
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 500px;
-  height: 500px;
 }
