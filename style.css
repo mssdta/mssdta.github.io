@@ -1,13 +1,2 @@
 .centrar {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
-
-.centrar img {
-  display: flex;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
+  width: 350px
