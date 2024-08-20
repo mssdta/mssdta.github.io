@@ -5,6 +5,9 @@
   align-items: center;
 }
 
-.centrar img{
-  display: flex;
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
