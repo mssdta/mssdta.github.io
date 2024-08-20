@@ -5,6 +5,7 @@ body {
 
 .centrar {
   align-items: center;
+  object-fit: cover;
 }
 
 img {
