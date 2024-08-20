@@ -1,5 +1,5 @@
 .centrar {
   text-align: center;
-  align-self: center;
+  align-items: center;
   display: flex;
 }
