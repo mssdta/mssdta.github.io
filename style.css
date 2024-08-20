@@ -5,6 +5,7 @@ body {
 
 .centrar {
   align-items: center;
+  width: 720px;
   margin: auto;
 }
 
