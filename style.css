@@ -7,7 +7,6 @@ body {
   text-align: center;
   align-items: center;
   object-position: center;
-  display: flex;
   width: 75vw;
   margin: auto;
 }
