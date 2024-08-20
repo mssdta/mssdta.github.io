@@ -4,8 +4,8 @@ body {
 }
 
 .centrar {
-  text-align: center;
-  align-items: center;
+  text-align: center center;
+  align-items: center center;
   object-position: center center;
   display: flex;
 }
